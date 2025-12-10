@@ -85,6 +85,3 @@ Memory usage remains under **50 KB** for a 100×100 grid.
 
 - Chirag Khanna
 - Daksh Jain
-
-# Launch comparison planner
-ros2 launch <your_pkg> planner_comparison.launch.py
