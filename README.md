@@ -59,6 +59,21 @@ Theta* uses line-of-sight checks to generate smooth and efficient paths.
 
 ---
 
+![RViz Result Image](https://github.com/user-attachments/assets/b344ed32-ae10-4fb7-bbf2-7f66ba207259)
+
+- Start position set: (-1.938772201538086, -0.30759093165397644)
+
+- Start: (-1.97, -0.28) - Bottom-left area
+- Goal: (1.5, 1.5) - Top-right area
+- Distance: ~3.7 meters diagonal
+- Direction: Northeast diagonal (up and right)
+
+- Red - Dijkstra
+- Green - A*
+- Blue - Theta*
+
+---
+
 ## Real-Time & Memory Feasibility
 
 | Refresh Rate | A* | Theta* | Dijkstra |
