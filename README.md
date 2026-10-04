@@ -100,3 +100,4 @@ Memory usage remains under **50 KB** for a 100×100 grid.
 
 - Chirag Khanna
 - Daksh Jain
+- [Research Paper](https://share.google/Y2DRp6YlwAkv2d2Pg)
